@@ -1,3 +1,11 @@
+<div align="center">
+
+[![R](https://img.shields.io/badge/R-Latest-blue?style=flat-square&logo=r)](https://www.r-project.org/)
+[![RStudio](https://img.shields.io/badge/RStudio-Latest-blue?style=flat-square&logo=rstudio)](https://www.rstudio.com/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-Latest-blue?style=flat-square&logo=r)](https://ggplot2.tidyverse.org/)
+
+</div>
+
 # Basketball Analysis with R 🏀
 
 ## Table of Contents
